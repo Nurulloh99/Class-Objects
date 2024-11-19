@@ -1,0 +1,14 @@
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.AssemblyInfoInputs.cache
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.AssemblyInfo.cs
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.csproj.CoreCompileInputs.cache
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.exe
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.deps.json
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.runtimeconfig.json
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.dll
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.pdb
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.dll
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\refint\Classes & Objects.dll
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.pdb
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.genruntimeconfig.cache
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\ref\Classes & Objects.dll
