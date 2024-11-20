@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Classes___Objects;
+﻿namespace Classes___Objects;
 
 public class SocialMedia
 {
@@ -16,7 +10,8 @@ public class SocialMedia
     public string DataOfOpening { get; set; }
     public string Reputation { get; set; }
     public string Address { get; set; }
-    public string Advertisement { get; set; }
+    public string Advertisement { get; set;
+    }
     public string MissionOfSite { get; set; }
 
     public void DisplayOfSocialMedia()
@@ -28,5 +23,5 @@ public class SocialMedia
 
         Console.WriteLine(result);
     }
-
+    
 }

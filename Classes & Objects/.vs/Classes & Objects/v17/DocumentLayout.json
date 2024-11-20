@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\beauty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:beauty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,22 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|solutionrelative:restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6053FFCF-0869-4E66-BCDF-B514E1589500}|Classes \u0026 Objects.csproj|d:\\projectswithcsharp\\gitprojects\\class-objects\\classes \u0026 objects\\nature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Travel.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Travel.cs",
               "RelativeDocumentMoniker": "Travel.cs",
@@ -66,18 +66,17 @@
               "RelativeToolTip": "Travel.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:51:11.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:51:11.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Beauty.cs",
-              "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Beauty.cs",
-              "RelativeDocumentMoniker": "Beauty.cs",
-              "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Beauty.cs",
-              "RelativeToolTip": "Beauty.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBgAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Country.cs",
+              "RelativeDocumentMoniker": "Country.cs",
+              "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Country.cs",
+              "RelativeToolTip": "Country.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T10:53:52.561Z",
               "EditorCaption": ""
@@ -90,14 +89,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwI4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T10:50:29.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Investment.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Investment.cs",
               "RelativeDocumentMoniker": "Investment.cs",
@@ -105,77 +104,72 @@
               "RelativeToolTip": "Investment.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:52:58.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:52:58.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:51:56.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:51:56.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "SocialMedia.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\SocialMedia.cs",
               "RelativeDocumentMoniker": "SocialMedia.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\SocialMedia.cs",
               "RelativeToolTip": "SocialMedia.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:52:12.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:52:12.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Restaurant.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Restaurant.cs",
               "RelativeDocumentMoniker": "Restaurant.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Restaurant.cs",
               "RelativeToolTip": "Restaurant.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:53:25.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:53:25.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Study.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Study.cs",
               "RelativeDocumentMoniker": "Study.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Study.cs",
               "RelativeToolTip": "Study.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:51:23.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:51:23.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Creature.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Creature.cs",
               "RelativeDocumentMoniker": "Creature.cs",
               "ToolTip": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Creature.cs",
               "RelativeToolTip": "Creature.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T10:53:34.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Games.cs",
               "DocumentMoniker": "D:\\ProjectsWithCsharp\\GitProjects\\Class-Objects\\Classes \u0026 Objects\\Games.cs",
               "RelativeDocumentMoniker": "Games.cs",
@@ -183,8 +177,7 @@
               "RelativeToolTip": "Games.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:53:07.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:53:07.16Z"
             },
             {
               "$type": "Document",
@@ -196,8 +189,7 @@
               "RelativeToolTip": "Nature.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T10:52:40.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T10:52:40.708Z"
             }
           ]
         }

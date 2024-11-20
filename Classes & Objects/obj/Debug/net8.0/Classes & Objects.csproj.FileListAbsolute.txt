@@ -12,3 +12,4 @@ D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8
 D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.pdb
 D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.genruntimeconfig.cache
 D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\ref\Classes & Objects.dll
+D:\ProjectsWithCsharp\GitProjects\Class-Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.sourcelink.json

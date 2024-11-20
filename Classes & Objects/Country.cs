@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Classes___Objects;
 
-public class Beauty
+public class Country
 {
     public string Place { get; set; } 
     public string Appearence { get; set; } 
@@ -21,10 +21,10 @@ public class Beauty
 
     public void DisplayOfBeauty()
     {
-        string result = $" Beautiful place: {Place}\n Appearance: {Appearence}\n " +
-            $"Construction: {Construction}\n Discovered time: {DiscoveredTime}\n " +
-            $"Culture: {Culture}\n Popularity: {WellKnowen}\n Benefits: {Benefits}\n " +
-            $"Healthy: {Healthy}\n Population: {Population}\n Animals: {Animals}\n";
+        string result = $" Davlat nomi: {Place}\n Ko'rinishi: {Appearence}\n " +
+            $"Qurilish holati: {Construction}\n Tashkil topgan vaqt: {DiscoveredTime}\n " +
+            $"Madaniyati: {Culture}\n Mashxur: {WellKnowen}\n Foydalasi: {Benefits}\n " +
+            $"Sog'liqga tasiri: {Healthy}\n Aholisi: {Population}\n Hayvonlar: {Animals}\n";
 
         Console.WriteLine(result);
     }
